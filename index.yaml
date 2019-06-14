@@ -1,0 +1,24 @@
+apiVersion: v1
+entries:
+  orderer:
+  - apiVersion: v1
+    appVersion: 1.4.0
+    created: 2019-06-14T18:06:07.329889636+05:30
+    description: Hyperledger Fabric Orderer chart
+    digest: 8f04c476340afeba6906d7ca0718636c9c2aaa74b96bb0e8e13eacb3fa03ff66
+    home: http://hyperledger-fabric.readthedocs.io
+    icon: https://www.hyperledger.org/wp-content/uploads/2018/04/fabric-logo.png
+    keywords:
+    - blockchain
+    - hyperledger
+    - fabric
+    maintainers:
+    - email: mustafa@kmindz.in
+      name: kmindz
+    name: orderer
+    sources:
+    - https://github.com/hyperledger/fabric
+    urls:
+    - https://kmindz.github.io/hyperledger-charts/orderer-1.2.5.tgz
+    version: 1.2.5
+generated: 2019-06-14T18:06:07.328724521+05:30
