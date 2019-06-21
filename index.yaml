@@ -3,7 +3,7 @@ entries:
   couchdb:
   - apiVersion: v1
     appVersion: 0.4.14
-    created: 2019-06-19T15:22:52.98037269+05:30
+    created: 2019-06-21T12:01:34.290195194+05:30
     description: CouchDB instance for Hyperledger Fabric
     digest: 1414e7cfac4fb66f938bbf8c45a429b85e7250273144fd3114ab58aa95795735
     home: http://hyperledger-fabric.readthedocs.io
@@ -25,9 +25,9 @@ entries:
   edu-peer:
   - apiVersion: v1
     appVersion: 1.4.0
-    created: 2019-06-19T15:22:53.039467611+05:30
+    created: 2019-06-21T12:01:34.291170285+05:30
     description: Hyperledger Fabric Peer chart
-    digest: b41188e7b6065ddc6f4a6b3c86a8e88d1d47319f415543f56f72b5565f92a183
+    digest: 0f91faea61c6d0f25d9c86e50be2b429bea8106b6b8c34650f21b67f4cb73719
     home: http://hyperledger-fabric.readthedocs.io
     icon: https://www.hyperledger.org/wp-content/uploads/2018/04/fabric-logo.png
     keywords:
@@ -46,7 +46,7 @@ entries:
   orderer:
   - apiVersion: v1
     appVersion: 1.4.0
-    created: 2019-06-19T15:22:53.076974303+05:30
+    created: 2019-06-21T12:01:34.298983857+05:30
     description: Hyperledger Fabric Orderer chart
     digest: 8f04c476340afeba6906d7ca0718636c9c2aaa74b96bb0e8e13eacb3fa03ff66
     home: http://hyperledger-fabric.readthedocs.io
@@ -64,4 +64,4 @@ entries:
     urls:
     - https://kmindz.github.io/hyperledger-charts/orderer-1.2.5.tgz
     version: 1.2.5
-generated: 2019-06-19T15:22:52.979395025+05:30
+generated: 2019-06-21T12:01:34.283663116+05:30
